@@ -17,3 +17,8 @@
         .docx
         .xlsx
         
+#### Executar um arquivo javascript com node
+Entrar na pasta do arquivo.js   | cd nome-da-pasta
+Executar o arquivo .js          | node nome-do-arquivo.js
+Limpar tela                     | clear - cls
+Listar arquivos no terminal     | ls - dir
