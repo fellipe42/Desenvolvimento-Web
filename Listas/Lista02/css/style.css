@@ -1,0 +1,61 @@
+
+
+body {
+    background: linear-gradient(#00b2aa, #ecdeed);
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    /*Codigo para centralizar imagem e botão*/
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 300%;
+    font-family: Bebas Neue;
+
+}
+
+h4 {
+    text-align: center;
+    font-family: Exo 2;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color:white;
+    height: 20px;
+    width: 100px;
+    border: none;
+    border-radius: 10%;
+    cursor: pointer;
+    background: linear-gradient(#120907, #aa9fe0);
+    transition: 0.5s ease-in-out
+}
+
+
+button:hover {
+    background: linear-gradient(#4b26d3, goldenrod);
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+}
+
+button a:hover {
+    color: #030303;
+}
