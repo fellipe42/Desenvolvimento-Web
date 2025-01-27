@@ -25,11 +25,11 @@ button{
     display: block;
     margin-left: auto;
     margin-right: auto;
-
+    
     height: 30px;
     width: 150px;
     border: none;
-    border-radius: 10px;
+    border-radius: 10%;
     cursor: pointer;
     background: linear-gradient(#120907, #aa9fe0);
     transition: 0.5s ease-in-out
